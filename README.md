@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a frontend developer with a design background with working knowledge of Node.js for building servers and Dart/Flutter for mobile development.
+
+- [Website](https://samakintunde.com)
+- [Email](mailto:hello@samakintunde.com)
+
 <!--
 **samakintunde37/samakintunde37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
