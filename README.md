@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend developer with a design background with working knowledge of Node.js for building servers and Dart/Flutter for mobile development.
+I'm a frontend developer with a strong design background.
 
 - [Website](https://samakintunde.com)
 - [Email](mailto:hello@samakintunde.com)
